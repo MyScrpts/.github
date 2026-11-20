@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Native High-Performance Self-Hosted SVG Header Banner -->
-<img src="https://raw.githubusercontent.com/MyScrpts/.github/main/profile/header.png" width="100%" alt="MyScripts Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,15,20&height=220&section=header&text=MyScripts&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Developer%20Automation%20%E2%80%A2%20Shell%20Utilities%20%E2%80%A2%20Python%20Productivity%20Tools&descFontSize=19&descAlignY=62" width="100%" alt="MyScripts Header" />
 
 <!-- Live Dynamic Metrics & Badges -->
 <p align="center">
